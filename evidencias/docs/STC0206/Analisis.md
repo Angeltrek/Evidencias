@@ -1,8 +1,7 @@
 ---
 sidebar_position: 2
-title: Análisis de Autoevaluación: STC0206 Implantación de software
+title: Análisis de Autoevaluación STC0206 Implantación de software
 ---
-
 # Análisis de Autoevaluación: STC0206 Implantación de software
 
 ## Instrucciones
@@ -10,6 +9,7 @@ title: Análisis de Autoevaluación: STC0206 Implantación de software
 Marca con una X los elementos que cumples actualmente y completa las columnas de justificación y áreas de oportunidad para cada nivel.
 
 ## Nivel 1: Incipiente (15%) - "No conoce la fuerza"
+
 
 | Criterio                                                                                                           | Cumple (X) | Justificación | Áreas de oportunidad |
 | ------------------------------------------------------------------------------------------------------------------ | ---------- | -------------- | --------------------- |
@@ -29,6 +29,7 @@ Marca con una X los elementos que cumples actualmente y completa las columnas de
 
 ## Nivel 2: Básico (70%) - "Padawan"
 
+
 | Criterio                                                                                                                 | Cumple (X) | Justificación | Áreas de oportunidad |
 | ------------------------------------------------------------------------------------------------------------------------ | ---------- | -------------- | --------------------- |
 | He cumplido con los requisitos del nivel Incipiente                                                                      |            |                |                       |
@@ -44,6 +45,7 @@ Marca con una X los elementos que cumples actualmente y completa las columnas de
 **Evaluación nivel 2:***[Indica aquí si has superado este nivel o no]*
 
 ## Nivel 3: Sólido (85%) - "Jedi"
+
 
 | Criterio                                                                                                                        | Cumple (X) | Justificación | Áreas de oportunidad |
 | ------------------------------------------------------------------------------------------------------------------------------- | ---------- | -------------- | --------------------- |
@@ -63,6 +65,7 @@ Marca con una X los elementos que cumples actualmente y completa las columnas de
 
 ## Nivel 4: Destacado (100%) - "Master Jedi"
 
+
 | Criterio                                                                                                                 | Cumple (X) | Justificación | Áreas de oportunidad |
 | ------------------------------------------------------------------------------------------------------------------------ | ---------- | -------------- | --------------------- |
 | He cumplido con los requisitos del nivel Sólido                                                                         |            |                |                       |
@@ -80,6 +83,7 @@ Marca con una X los elementos que cumples actualmente y completa las columnas de
 
 ## Resumen de evaluación
 
+
 | Nivel               | Porcentaje | Estado actual | Observaciones |
 | ------------------- | ---------- | ------------- | ------------- |
 | Nivel 1: Incipiente | 15%        |               |               |
@@ -90,4 +94,3 @@ Marca con una X los elementos que cumples actualmente y completa las columnas de
 **Nivel actual alcanzado:***[Indica tu nivel actual]*
 
 **Plan de acción para mejorar:***[Describe brevemente qué acciones tomarás para avanzar al siguiente nivel]*
-

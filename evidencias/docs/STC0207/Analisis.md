@@ -1,8 +1,7 @@
 ---
 sidebar_position: 2
-title: Análisis de Autoevaluación: STC0207 Gestión de Proyectos Computacionales
+title: Análisis de Autoevaluación STC0207 Gestión de Proyectos Computacionales
 ---
-
 # Análisis de Autoevaluación: STC0207 Gestión de Proyectos Computacionales
 
 ## Instrucciones
@@ -10,6 +9,7 @@ title: Análisis de Autoevaluación: STC0207 Gestión de Proyectos Computacional
 Marca con una X los elementos que cumples actualmente y completa las columnas de justificación y áreas de oportunidad para cada nivel.
 
 ## Nivel 1: Incipiente (15%) - "No conoce la fuerza"
+
 
 | Criterio                                                                     | Cumple (X) | Justificación | Áreas de oportunidad |
 | ---------------------------------------------------------------------------- | ---------- | -------------- | --------------------- |
@@ -23,6 +23,7 @@ Marca con una X los elementos que cumples actualmente y completa las columnas de
 **Evaluación nivel 1:***[Indica aquí si has superado este nivel o no]*
 
 ## Nivel 2: Básico (70%) - "Padawan"
+
 
 | Criterio                                                                                    | Cumple (X) | Justificación | Áreas de oportunidad |
 | ------------------------------------------------------------------------------------------- | ---------- | -------------- | --------------------- |
@@ -44,6 +45,7 @@ Marca con una X los elementos que cumples actualmente y completa las columnas de
 **Evaluación nivel 2:***[Indica aquí si has superado este nivel o no]*
 
 ## Nivel 3: Sólido (85%) - "Jedi"
+
 
 | Criterio                                                                                      | Cumple (X) | Justificación | Áreas de oportunidad |
 | --------------------------------------------------------------------------------------------- | ---------- | -------------- | --------------------- |
@@ -69,6 +71,7 @@ Marca con una X los elementos que cumples actualmente y completa las columnas de
 **Evaluación nivel 3:***[Indica aquí si has superado este nivel o no]*
 
 ## Nivel 4: Destacado (100%) - "Master Jedi"
+
 
 | Criterio                                                                                             | Cumple (X) | Justificación | Áreas de oportunidad |
 | ---------------------------------------------------------------------------------------------------- | ---------- | -------------- | --------------------- |
@@ -97,6 +100,7 @@ Marca con una X los elementos que cumples actualmente y completa las columnas de
 
 ## Resumen de evaluación
 
+
 | Nivel               | Porcentaje | Estado actual | Observaciones |
 | ------------------- | ---------- | ------------- | ------------- |
 | Nivel 1: Incipiente | 15%        |               |               |
@@ -107,4 +111,3 @@ Marca con una X los elementos que cumples actualmente y completa las columnas de
 **Nivel actual alcanzado:***[Indica tu nivel actual]*
 
 **Plan de acción para mejorar:***[Describe brevemente qué acciones tomarás para avanzar al siguiente nivel]*
-

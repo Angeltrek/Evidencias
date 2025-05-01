@@ -1,6 +1,6 @@
 ---
 sidebar_position: 2
-title: Análisis de Autoevaluación: SEG0601 Lenguaje Oral
+title: Análisis de Autoevaluación SEG0601 Lenguaje Oral
 ---
 # Análisis de Autoevaluación: SEG0601 Lenguaje Oral
 

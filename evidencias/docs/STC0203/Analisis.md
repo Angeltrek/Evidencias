@@ -1,8 +1,7 @@
 ---
 sidebar_position: 2
-title: Análisis de Autoevaluación: STC0203 Diseño de componentes de software
+title: Análisis de Autoevaluación STC0203 Diseño de componentes de software
 ---
-
 # Análisis de Autoevaluación: STC0203 Diseño de componentes de software
 
 ## Instrucciones
@@ -10,6 +9,7 @@ title: Análisis de Autoevaluación: STC0203 Diseño de componentes de software
 Marca con una X los elementos que cumples actualmente y completa las columnas de justificación y áreas de oportunidad para cada nivel. Debes evaluar cada nivel de forma secuencial: si no cumples completamente con un nivel, no puedes pasar al siguiente.
 
 ## Nivel 1: Incipiente (15%) - "No conoce la fuerza"
+
 
 | Criterio                                                                             | Cumple (X) | Justificación | Áreas de oportunidad |
 | ------------------------------------------------------------------------------------ | ---------- | -------------- | --------------------- |
@@ -22,6 +22,7 @@ Marca con una X los elementos que cumples actualmente y completa las columnas de
 **Evaluación nivel 1:***[Indica aquí si has superado este nivel o no]*
 
 ## Nivel 2: Básico (70%) - "Padawan"
+
 
 | Criterio                                                                    | Cumple (X) | Justificación | Áreas de oportunidad |
 | --------------------------------------------------------------------------- | ---------- | -------------- | --------------------- |
@@ -39,6 +40,7 @@ Marca con una X los elementos que cumples actualmente y completa las columnas de
 **Evaluación nivel 2:***[Indica aquí si has superado este nivel o no]*
 
 ## Nivel 3: Sólido (85%) - "Jedi"
+
 
 | Criterio                                                                                            | Cumple (X) | Justificación | Áreas de oportunidad |
 | --------------------------------------------------------------------------------------------------- | ---------- | -------------- | --------------------- |
@@ -61,6 +63,7 @@ Marca con una X los elementos que cumples actualmente y completa las columnas de
 
 ## Nivel 4: Destacado (100%) - "Master Jedi"
 
+
 | Criterio                                                                                       | Cumple (X) | Justificación | Áreas de oportunidad |
 | ---------------------------------------------------------------------------------------------- | ---------- | -------------- | --------------------- |
 | Participo activamente en el diseño de todos los componentes críticos de mi proyecto          |            |                |                       |
@@ -82,6 +85,7 @@ Marca con una X los elementos que cumples actualmente y completa las columnas de
 
 ## Resumen de evaluación
 
+
 | Nivel               | Porcentaje | Estado actual | Observaciones |
 | ------------------- | ---------- | ------------- | ------------- |
 | Nivel 1: Incipiente | 15%        |               |               |
@@ -91,4 +95,3 @@ Marca con una X los elementos que cumples actualmente y completa las columnas de
 
 **Nivel actual alcanzado:***[Indica tu nivel actual]*
 **Plan de acción para mejorar:***[Describe brevemente qué acciones tomarás para avanzar al siguiente nivel]*
-

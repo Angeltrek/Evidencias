@@ -1,8 +1,7 @@
 ---
 sidebar_position: 2
-title: Análisis de Autoevaluación: STC0201 Aplicación de metodologías
+title: Análisis de Autoevaluación STC0201 Aplicación de metodologías
 ---
-
 # Análisis de Autoevaluación: STC0201 Aplicación de metodologías
 
 ## Instrucciones
@@ -10,6 +9,7 @@ title: Análisis de Autoevaluación: STC0201 Aplicación de metodologías
 Marca con una X los elementos que cumples actualmente y completa las columnas de justificación y áreas de oportunidad para cada nivel.
 
 ## Nivel 1: Incipiente (15%) - "No conoce la fuerza"
+
 
 | Criterio                                                                                                                | Cumple (X) | Justificación | Áreas de oportunidad |
 | ----------------------------------------------------------------------------------------------------------------------- | ---------- | -------------- | --------------------- |
@@ -22,6 +22,7 @@ Marca con una X los elementos que cumples actualmente y completa las columnas de
 **Evaluación nivel 1:***[Indica aquí si has superado este nivel o no]*
 
 ## Nivel 2: Básico (70%) - "Padawan"
+
 
 | Criterio                                                                                                             | Cumple (X) | Justificación | Áreas de oportunidad |
 | -------------------------------------------------------------------------------------------------------------------- | ---------- | -------------- | --------------------- |
@@ -42,6 +43,7 @@ Marca con una X los elementos que cumples actualmente y completa las columnas de
 
 ## Nivel 3: Sólido (85%) - "Jedi"
 
+
 | Criterio                                                                                                                      | Cumple (X) | Justificación | Áreas de oportunidad |
 | ----------------------------------------------------------------------------------------------------------------------------- | ---------- | -------------- | --------------------- |
 | Participo activamente en la definición de metodologías de trabajo para el desarrollo de soluciones                          |            |                |                       |
@@ -53,6 +55,7 @@ Marca con una X los elementos que cumples actualmente y completa las columnas de
 **Evaluación nivel 3:***[Indica aquí si has superado este nivel o no]*
 
 ## Nivel 4: Destacado (100%) - "Master Jedi"
+
 
 | Criterio                                                                                                               | Cumple (X) | Justificación | Áreas de oportunidad |
 | ---------------------------------------------------------------------------------------------------------------------- | ---------- | -------------- | --------------------- |
@@ -67,6 +70,7 @@ Marca con una X los elementos que cumples actualmente y completa las columnas de
 
 ## Resumen de evaluación
 
+
 | Nivel               | Porcentaje | Estado actual | Observaciones |
 | ------------------- | ---------- | ------------- | ------------- |
 | Nivel 1: Incipiente | 15%        |               |               |
@@ -77,4 +81,3 @@ Marca con una X los elementos que cumples actualmente y completa las columnas de
 **Nivel actual alcanzado:***[Indica tu nivel actual]*
 
 **Plan de acción para mejorar:***[Describe brevemente qué acciones tomarás para avanzar al siguiente nivel]*
-
