@@ -12,6 +12,8 @@ title: Lenguaje oral
 
 Por favor, agrega tus observaciones, sugerencias y comentarios sobre esta competencia en el siguiente enlace:  [Haz clic aquí para dejar tu retroalimentación](https://docs.google.com/document/d/1o2aNd0PEODInR0MsKR8RtF3OVHa19xTYqTM2BMWfY_w/edit?usp=sharing)
 
+## Reflexión de mi estado actual en la competencia
+
 En el segundo reporte de estado, mi equipo decidió que sería buena idea que yo presentara. El problema fue que todos estaban muy ocupados, y normalmente presentan dos personas del equipo, pero en esta ocasión tuve que hacerlo yo solo. Mi mayor miedo era presentar sin compañía, por lo que, para aterrizar mejor las ideas, le pedí ayuda a mi compañero Hiram para practicar antes de dar el reporte de estado.
 
 No soy muy bueno hablando en público, e Hiram me hizo varias observaciones que en el momento no conecté del todo, pero justo después de realizar la presentación empecé a imaginar posibles escenarios y formas de mejorar mi comunicación.
@@ -34,7 +36,13 @@ Sí logro completar el anterior objetivo SMART, el siguiente objetivo sería red
 
 > Antes del 11 de junio, reduciré el uso de muletillas como “entonces”, “este” y “pero” al hablar en público, con el objetivo de limitar su aparición a un máximo de tres veces en la última presentación. Para lograrlo, mejoraré mi forma de expresarme mediante práctica semanal y pediré a mis compañeros que me señalen cada vez que detecten una muletilla.
 
+## Evidencias que respaldan la competencia
+
 
 | Descripción de la evidencia        | Enlace a la evidencia                                                                                                                                                              |
 | ----------------------------------- | ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
 | Presentación del reporte de estado | [Reporte de estado](https://www.canva.com/design/DAGjdeuiD8w/ktvNzRVH5XveEyP64h0a6g/edit?utm_content=DAGjdeuiD8w&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton) |
+
+## Análisis del nivel de la competencia
+
+[Análisis de Autoevaluación: SEG0601 Lenguaje Oral](/docs/SEG0601/Analisis)
