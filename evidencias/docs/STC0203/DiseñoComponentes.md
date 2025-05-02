@@ -23,7 +23,7 @@ La documentación de los componentes mantiene una trazabilidad clara entre el di
 
 El diseño efectivo de los diagramas de secuencia requiere una comprensión profunda de la arquitectura del proyecto y la justificación de cada interacción modelada. La creación de estos diagramas se alinea con estándares internacionales como:
 
-* **UML (Unified Modeling Language) - ISO/IEC 19505:** Los diagramas de secuencia son un elemento central de UML, el estándar internacional para el modelado de sistemas de software. Su uso asegura una representación visual clara y estandarizada de las interacciones entre componentes a lo largo del tiempo.
+* **UML (Unified Modeling Language) - ISO/IEC 19505: Los diagramas de secuencia son un elemento central de UML, el estándar internacional para el modelado de sistemas de software. Su uso asegura una representación visual clara y estandarizada de las interacciones entre componentes a lo largo del tiempo.**
 * Las **mejores prácticas de la industria** en diseño de software también recomiendan el uso de diagramas de secuencia como una herramienta eficaz para comunicar y validar la interacción entre componentes, especialmente en arquitecturas modulares como la hexagonal, donde las responsabilidades están claramente delimitadas.
 
 Desde la perspectiva de QA, esta claridad en el diseño es esencial para poder asegurar la calidad del proyecto. La creación de estos diagramas se alinea con estándares internacionales que proporcionan herramientas para describir el comportamiento y la estructura del sistema.
