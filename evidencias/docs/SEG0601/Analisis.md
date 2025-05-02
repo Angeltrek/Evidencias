@@ -94,4 +94,5 @@ Marca con una X los elementos que cumples actualmente y completa las columnas de
 
 **Plan de acción para mejorar:**
 
-Practicaré contacto visual y eliminaré muletillas mediante objetivos SMART con apoyo de compañeros, grabaciones semanales y retroalimentación activa. Me enfocaré en mejorar la coherencia entre lenguaje verbal y corporal, así como en estructurar mensajes más concisos y efectivos.
+* Practicaré contacto visual y eliminaré muletillas mediante objetivos SMART con apoyo de compañeros, grabaciones semanales y retroalimentación activa.
+* Me enfocaré en mejorar la coherencia entre lenguaje verbal y corporal, así como en estructurar mensajes más concisos y efectivos.
