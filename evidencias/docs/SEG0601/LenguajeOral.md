@@ -14,7 +14,7 @@ Por favor, agrega tus observaciones, sugerencias y comentarios sobre esta compet
 
 ## Reflexión de mi estado actual en la competencia
 
-En el segundo reporte de estado, mi equipo decidió que sería buena idea que yo presentara. El problema fue que todos estaban muy ocupados, y normalmente presentan dos personas del equipo, pero en esta ocasión tuve que hacerlo yo solo. Mi mayor miedo era presentar sin compañía, por lo que, para aterrizar mejor las ideas, le pedí ayuda a mi compañero Hiram para practicar antes de dar el reporte de estado.
+En el segundo reporte de estado, mi equipo decidió que yo lo presentara solo, y lo tomé como una oportunidad para evaluar mis habilidades para hablar en público. Normalmente presentan dos personas del equipo, pero esta vez todos estaban muy ocupados y me tocó hacerlo solo. Mi mayor miedo era presentarlo sin compañía, así que para organizar mejor mis ideas, le pedí a mi compañero Hiram que me ayudara a practicar antes de dar el reporte.
 
 No soy muy bueno hablando en público, e Hiram me hizo varias observaciones que en el momento no conecté del todo, pero justo después de realizar la presentación empecé a imaginar posibles escenarios y formas de mejorar mi comunicación.
 
