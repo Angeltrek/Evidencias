@@ -15,7 +15,7 @@ Marca con una X los elementos que cumples actualmente y completa las columnas de
 | ------------------------------------------------------------------------------------ | ---------- | -------------- | --------------------- |
 | No he diseñado componentes de software basados en estándares internacionales       |            |                |                       |
 | No comprendo los principios básicos de arquitectura de software                     |            |                |                       |
-| No he creado diagramas de paquetes ni de despliegue                                  |            |                |                       |
+| No he creado diagramas de paquetes ni de despliegue                                  | x          |                |                       |
 | No conozco los patrones arquitectónicos para el desarrollo de software              |            |                |                       |
 | No he documentado componentes de software ni justificado decisiones arquitectónicas |            |                |                       |
 

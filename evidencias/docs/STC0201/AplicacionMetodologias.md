@@ -2,7 +2,6 @@
 sidebar_position: 1
 title: Aplicación de metodologías
 ---
-
 # Aplicación de metodologías
 
 | Aplica metodologías de desarrollo de soluciones de acuerdo a las necesidades establecidas por el contexto de un proceso computacional o de negocio, siguiendo estándares internacionales. |
@@ -26,7 +25,7 @@ El marco de referencia CMMI nos brinda herramientas para tomar decisiones inform
 
 Al realizar el test de liderazgo, identifiqué que mi enfoque está centrado en las personas. Esto me ha permitido comprender mejor la metodología ágil de DAD, que valida el aprendizaje continuo, prioriza las relaciones humanas sobre los resultados inmediatos y adapta las métricas para mejorar el desempeño de manera sostenible.
 
-DAD plantea que, cuanto antes se realicen actividades de verificación y validación —como pruebas, retroalimentación y trabajo colaborativo—, mayor será la posibilidad de obtener resultados acertados. Esto reduce el costo de cambio y aumenta la probabilidad de entregar soluciones que realmente respondan a las necesidades de los stakeholders.
+DAD plantea que, cuanto antes se realicen actividades de verificación y validación, como pruebas, retroalimentación y trabajo colaborativo, mayor será la posibilidad de obtener resultados acertados. Esto reduce el costo de cambio y aumenta la probabilidad de entregar soluciones que realmente respondan a las necesidades de los stakeholders.
 
 Para garantizar la calidad del proyecto de mi equipo, asumí el rol de QA (asegurador de la calidad), especializado en asegurar que el equipo haga las cosas correctas de la manera correcta. En particular, me enfoqué en mejorar continuamente la arquitectura del sistema, promoviendo una codificación limpia y ordenada. También realicé pruebas de usabilidad con diferentes usuarios para obtener retroalimentación valiosa y, finalmente, validar las posibles modificaciones con el socio formador para crear un producto que realmente lo fascine.
 
@@ -48,7 +47,23 @@ Personalmente, me estoy enfocando en cumplir correctamente con mi rol como QA, l
 
 ![1746137464694](images/AplicacionMetodologias/1746137464694.png)
 
+## Evidencias que respaldan la competencia
+
+| Descripción de la evidencia                                                                             | Enlace a la evidencia                                                                                                                                                      |
+| -------------------------------------------------------------------------------------------------------- | -------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| Recurso utilizado para implementar Atomic Design                                                         | [Atomic Design Pattern](https://rjroopal.medium.com/atomic-design-pattern-structuring-your-react-application-970dd57520f8)                                                    |
+| Aportación a corregir el proceso de auditorías donde se hace referencia al mapa del ciclo de vida DAD. | [Code&Co wiki](https://codeandco-wiki.netlify.app/docs/procesos/PR12-auditorias)                                                                                              |
+| Pruebas de Usabilidad                                                                                    | [Pruebas Usabilidad](https://docs.google.com/spreadsheets/d/1NLGwGrGA5PVOEzLaqxa8Ts1D_Ng3QzzqNKWJYUzxD-M/edit?usp=sharing)                                                    |
+| Refactorización del código donde se implementa Atomic Design                                           | [Frontend Text&Lines](https://github.com/CodeAnd-Co/Frontend-Text-Lines/tree/develop/src/vistas/componentes)                                                                  |
+| Plan de valor ganado después de refactorizar. Se puede observar el incremento de desempeño.            | [PVG Tex&Lines](https://docs.google.com/spreadsheets/d/1ins7a1KF_8chA4lhZNzRSiH3ySl5aHztllgCIgqCqOk/edit?usp=sharing)                                                         |
+| Aportación en la fase de planeación                                                                    | [PVG Tex&Lines](https://docs.google.com/spreadsheets/d/1ins7a1KF_8chA4lhZNzRSiH3ySl5aHztllgCIgqCqOk/edit?usp=sharing)                                                         |
+| Aportación en la fase de análisis                                                                      | [Priorización de Requerimientos Funcionales](https://docs.google.com/spreadsheets/d/1ToxcYLMjoZ0dPXlb2eTesLf_YXg8q86tE7bredXapYk/edit?gid=2006473852#gid=2006473852)         |
+| Aportación en la fase de diseño                                                                        | [MER y Diccionario de Datos](https://codeandco-wiki.netlify.app/docs/proyectos/textiles/documentacion/diagrama-mer/)                                                          |
+| Aportación en la fase de revisión de diseño                                                           | [MER y Diccionario de Datos](https://codeandco-wiki.netlify.app/docs/proyectos/textiles/documentacion/diagrama-mer/)                                                          |
+| Aportación en la fase de codificación                                                                  | [Pull Request de una de mis HU](https://github.com/CodeAnd-Co/Frontend-Text-Lines/pull/23)                                                                                    |
+| Aportación en la fase de revisión de codificación                                                     | [Pull Request Revisado por mi](https://github.com/CodeAnd-Co/Frontend-Text-Lines/pull/17)                                                                                     |
+| Aportación en la fase de pruebas                                                                        | [Pruebas realizadas en el desarrollo de una de mis HU](https://docs.google.com/spreadsheets/d/1NLGwGrGA5PVOEzLaqxa8Ts1D_Ng3QzzqNKWJYUzxD-M/edit?gid=233812011#gid=233812011) |
+
 ## Análisis del nivel de la competencia
 
 [Análisis de Autoevaluación: STC0201 Aplicación de metodologías](/docs/STC0201/Analisis)
-
