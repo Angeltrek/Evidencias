@@ -2,6 +2,7 @@
 sidebar_position: 1
 title: Diseño de componentes de software
 ---
+
 # Diseño de componentes de software
 
 | Diseña componentes de software, a partir de requerimientos, con base en estándares internacionales. |
@@ -23,18 +24,19 @@ La documentación de los componentes mantiene una trazabilidad clara entre el di
 
 El diseño efectivo de los diagramas de secuencia requiere una comprensión profunda de la arquitectura del proyecto y la justificación de cada interacción modelada. La creación de estos diagramas se alinea con estándares internacionales como:
 
-* **UML (Unified Modeling Language) - ISO/IEC 19505: Los diagramas de secuencia son un elemento central de UML, el estándar internacional para el modelado de sistemas de software. Su uso asegura una representación visual clara y estandarizada de las interacciones entre componentes a lo largo del tiempo.**
-* Las **mejores prácticas de la industria** en diseño de software también recomiendan el uso de diagramas de secuencia como una herramienta eficaz para comunicar y validar la interacción entre componentes, especialmente en arquitecturas modulares como la hexagonal, donde las responsabilidades están claramente delimitadas.
+* UML (Unified Modeling Language) - ISO/IEC 19505: Los diagramas de secuencia son un elemento central de UML, el estándar internacional para el modelado de sistemas de software. Su uso asegura una representación visual clara y estandarizada de las interacciones entre componentes a lo largo del tiempo.
+* Las mejores prácticas de la industria en diseño de software también recomiendan el uso de diagramas de secuencia como una herramienta eficaz para comunicar y validar la interacción entre componentes, especialmente en arquitecturas modulares como la hexagonal, donde las responsabilidades están claramente delimitadas.
 
 Desde la perspectiva de QA, esta claridad en el diseño es esencial para poder asegurar la calidad del proyecto. La creación de estos diagramas se alinea con estándares internacionales que proporcionan herramientas para describir el comportamiento y la estructura del sistema.
 
 ## Evidencias que respaldan la competencia
 
-| Descripción de la evidencia                           | Enlace a la evidencia                                                                                          |
-| ------------------------------------------------------ | -------------------------------------------------------------------------------------------------------------- |
+| Descripción de la evidencia                           | Enlace a la evidencia                                                                                             |
+| ------------------------------------------------------ | ----------------------------------------------------------------------------------------------------------------- |
 | Diagrama de secuencia de Consultar Grupos de Empleados | [Diagrama de Secuencia](https://codeandco-wiki.netlify.app/docs/proyectos/textiles/documentacion/requisitos/RF22) |
 | Diagrama de secuencia de Consultar Lista de Empleados  | [Diagrama de Secuencia](https://codeandco-wiki.netlify.app/docs/proyectos/textiles/documentacion/requisitos/RF17) |
 
 ## Análisis del nivel de la competencia
 
 [Análisis de Autoevaluación: STC0203 Diseño de componentes de software](/docs/STC0203/Analisis)
+
