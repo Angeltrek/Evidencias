@@ -63,7 +63,7 @@ Marca con una X los elementos que cumples actualmente y completa las columnas de
 | ---------------------------------------------------------------------------------------------------------------------- | ---------- | -------------------------------------------------------------------------------- | ---------------------------------------------------------------------------- |
 | Participo activamente en la definición de metodologías de trabajo para el desarrollo de soluciones                   | X          | Implementamos DAD como equipo, basados en análisis contextual.                  | Documentar formalmente la metodología adaptada.                             |
 | Lidero iniciativas de mejora continua en las metodologías aplicadas en mi equipo o departamento                       | X          | Propuse refactorizaciones y atomic design a nivel departamental.                | Asegurar que se esté implementando de forma correcta el patrón de diseño. |
-| Tengo un conocimiento profundo de estándares internacionales y puedo aplicarlos de manera flexible según el contexto |            |                                                                                  | Aún me faltan comprender muchos conceptos de DAD.                           |
+| Tengo un conocimiento profundo de estándares internacionales y puedo aplicarlos de manera flexible según el contexto |            |                                                                                  | Aún me falta comprender muchos conceptos de DAD.                           |
 | He implementado múltiples mejoras de manera exitosa al proceso de desarrollo en mi departamento o equipo              | X          | Mejoras en calidad, documentación, base de datos, pruebas y retroalimentación. | Ampliar alcance a todo el ciclo de vida.                                     |
 | Puedo demostrar el impacto positivo de las mejoras implementadas con métricas o evidencias concretas                  | X          | Uso de métricas como incremento de desempeño tras iteración.                  | Medir impacto de nuevas propuestas en pruebas.                               |
 | Asesoro a otros miembros del equipo en la aplicación efectiva de metodologías de desarrollo                          |            |                                                                                  | No tengo confianza en que pueda influir de forma positiva en los demás,     |
@@ -84,6 +84,6 @@ Marca con una X los elementos que cumples actualmente y completa las columnas de
 
 **Plan de acción para mejorar:**
 
-* Sistematizar los procesos de revisión y pruebas para reducir los tiempos actuales.
+* Ayudar a mejorar los procesos de revisión y pruebas para reducir los tiempos actuales.
 * Promover mayor trazabilidad en la aplicación de procesos.
 * Tener más confianza en mí mismo y acudir a asesorias con profesores.
