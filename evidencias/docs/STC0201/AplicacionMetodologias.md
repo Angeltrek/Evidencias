@@ -61,6 +61,22 @@ El objetivo fue atacar directamente la desviación del plan departamental y mejo
 
 Logramos alcanzar 79.216 puntos en solo 4 horas, superando la meta de 70 puntos y fortaleciendo tanto el entendimiento como la colaboración del equipo.
 
+Entiendo que las mejoras se implementaron casi al final del semestre. Por esta razón, el departamento tomó la decisión de mantenerse unido y seguir trabajando hasta la última semana oficial de clases, ya que finalmente encontramos una forma de trabajo que realmente nos funciona.
+
+Lamentablemente, ese descubrimiento llegó tarde. Creo que la intención del bloque era que identificáramos estas oportunidades y formas de trabajo al menos tres semanas antes del cierre del semestre, pero, tristemente, no fue posible lograrlo a tiempo.
+
+Aún tengo muchas ganas de seguir aplicando lo aprendido, porque difícilmente se vuelven a presentar oportunidades como las que tuvimos este semestre. Para seguir mejorando, sé que lo primero que puedo hacer es trabajar en mi propia forma de trabajo, porque ahora entiendo que la disciplina que una persona puede aportar a un equipo es suficiente para transformar todo un entorno de trabajo.
+
+Esto lo aprendí gracias al ejemplo de personas que me inspiraron como Pao, Vale, Alfaro, Nico, Angie, Charly, Max, Rodri, Hiram, Arturo y Diego García, quienes con su compromiso y actitud me motivaron a seguir mejorando día con día.
+
+Con ellos aprendí que la ingeniería no se trata solo de programar o tener habilidades técnicas, sino de **gestionar y mantener un proceso de ingeniería sólido**. Entendí que es importante **verificar, validar, planear y tomar decisiones basadas en datos**, y, sobre todo, que **confiar en la capacidad de tu equipo es clave para alcanzar el éxito**.
+
+## Reflexión de Master Jedi en aplicación de metodologías 
+
+Un Master Jedi en aplicación de metodologías es capaz de comprender la importancia de crear una forma de trabajo dentro de un equipo a través de la mejora de los sistemas. Reconoce que **los roles de liderazgo son fundamentales en su entorno**, y por ello **prioriza a las personas** para lograr mejoras que puedan durar en el tiempo o incluso ser permanentes. También entiende que existen **herramientas que le permiten gestionar proyectos, aplicar ingeniería, diseñar procesos y mejorarlos con base en indicadores y resultados medibles**.
+
+También actúa con valores y fomenta una cultura de respeto y dignidad al mejorar la forma de trabajo. Por eso, siempre pone la ética por delante y comprende que, en ocasiones, los sistemas pueden ser viejos tener falta de moral, así que prioriza evaluar lo ético y lo moral cada vez que realiza un cambio dentro de su entorno.
+
 ## Evidencias que respaldan la competencia
 
 | Descripción de la evidencia       | Enlace a la evidencia                                                                                                    |
