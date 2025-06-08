@@ -37,7 +37,3 @@ Finalmente, siempre tengo presente que la seguridad requerimiento no funcional m
 | Frontend: Desarrollo de Consultar Lista de Empleados | [Componente Consular Lista de Empleados](https://github.com/CodeAnd-Co/Frontend-Text-Lines/pull/23)   |
 | Backend: Desarrollo de Consultar Grupos de Empleados  | [Componente Consultar Grupos de Empleados](https://github.com/CodeAnd-Co/Frontend-Text-Lines/pull/18) |
 | Backend: Desarrollo de Consultar Lista de Empleados  | [Componente Consular Lista de Empleados](https://github.com/CodeAnd-Co/Backend-textiles/pull/29)      |
-
-## Análisis del nivel de la competencia
-
-[Análisis de Autoevaluación: STC0204 Desarrollo de componentes de software](/docs/STC0204/Analisis)

@@ -46,8 +46,6 @@ Aún no sé si existe algún proceso innecesario dentro del ciclo de desarrollo,
 
 Personalmente, me estoy enfocando en cumplir correctamente con mi rol como QA, lo que ha limitado mi tiempo para revisar todos los procesos del ciclo. En teoría, existen auditorías internas que deberían identificar estos puntos, y noto que está comenzando a haber una mayor conciencia sobre que los procesos no están siendo utilizados de manera efectiva o alineada con su propósito.
 
-![1746137464694](images/AplicacionMetodologias/1746137464694.png)
-
 ## Evidencias que respaldan la competencia
 
 
@@ -65,7 +63,3 @@ Personalmente, me estoy enfocando en cumplir correctamente con mi rol como QA, l
 | Aportación en la fase de codificación                                                                  | [Pull Request de una de mis HU](https://github.com/CodeAnd-Co/Frontend-Text-Lines/pull/23)                                                                                    |
 | Aportación en la fase de revisión de codificación                                                     | [Pull Request Revisado por mi](https://github.com/CodeAnd-Co/Frontend-Text-Lines/pull/17)                                                                                     |
 | Aportación en la fase de pruebas                                                                        | [Pruebas realizadas en el desarrollo de una de mis HU](https://docs.google.com/spreadsheets/d/1NLGwGrGA5PVOEzLaqxa8Ts1D_Ng3QzzqNKWJYUzxD-M/edit?gid=233812011#gid=233812011) |
-
-## Análisis del nivel de la competencia
-
-[Análisis de Autoevaluación: STC0201 Aplicación de metodologías](/docs/STC0201/Analisis)
