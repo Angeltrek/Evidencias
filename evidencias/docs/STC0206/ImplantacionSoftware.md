@@ -48,18 +48,8 @@ La mejora que propuse para centralizar las auditorías en la matriz de configura
 En Code&Co enfrentamos retos significativos con los tiempos de firma de MVP y MBI. Los proyectos no lograron cumplir con los 10-15 días laborales de implantación en producción que requería la rúbrica. Esto se debió principalmente a:
 
 * Falta de planificación temprana de la implantación
-* Problemas con cuentas, licencias y pagos no resueltos a tiempo
+* Problemas con el compromiso con los socios formadores
 * Documentación de implantación insuficiente
-
-Como PM, identifiqué que los reportes de estado no reflejaban estos problemas a tiempo, lo que llevó a mi propuesta de mejora en las checklists para hacer más visible el estado real de la implantación en cada proyecto.
-
-Una propuesta que implementé para reducir la resistencia al cambio fue realizar pruebas de usabilidad tempranas con usuarios reales. En lugar de esperar a tener el producto completo, involucré a usuarios desde las primeras versiones para:
-
-* Validar que estábamos resolviendo problemas reales
-* Ajustar la interfaz según sus necesidades
-* Generar confianza y sentido de propiedad en el sistema
-
-Las pruebas beta que realizamos con el socio formador y las pruebas heurísticas en voz alta fueron evidencia de que esta estrategia funciona para generar adopción temprana.
 
 Este semestre me enseñó que la implantación exitosa requiere:
 
