@@ -4,7 +4,6 @@ title: Elaboración de pruebas de software
 ---
 # Elaboración de pruebas de software
 
-
 | Elabora pruebas que validen el cumplimiento de los requerimientos iniciales del sistema computacional. |
 | ------------------------------------------------------------------------------------------------------ |
 
@@ -26,7 +25,7 @@ Uno de nuestros requisitos no funcionales más importantes era la seguridad del 
 
 Con el tiempo, nos dimos cuenta de que no teníamos un plan de pruebas formal, por lo que mi compañero Hiram propuso usar la tabla de casos de prueba que ya habíamos utilizado en semestres anteriores. Esta decisión fue acertada, ya que posteriormente facilitó el control de pruebas realizadas y permitió ejecutar pruebas de regresión de manera más efectiva.
 
-Al realizar una historia de usuario, le tenía que realizar pruebas unitarias considerando todas las posibles validaciones para los campos de los formularios como entrada de datos válidos, rangos permitidos o condiciones específicas de negocio como en la historia de usuario de crear producto que permite crear un producto sin puntos asignados.
+Al realizar una historia de usuario, le tenía que realizar casos de prueba considerando todas las posibles validaciones para los campos de los formularios como entrada de datos válidos, rangos permitidos o condiciones específicas de negocio como en la historia de usuario de crear producto que permite crear un producto sin puntos asignados.
 
 Además, era importante verificar que el sistema proporcionara respuestas de retroalimentación claras y adecuadas al usuario en caso de errores, como mensajes que indicaran campos inválidos, datos faltantes o acciones no permitidas.
 
@@ -54,15 +53,14 @@ Comprende la importancia de las reglas de negocio, asegurando que la lógica del
 
 ## Evidencias que respaldan la competencia
 
-
-| Descripción de la evidencia                                                           | Enlace a la evidencia                                                                                                                       |
-| -------------------------------------------------------------------------------------- | ------------------------------------------------------------------------------------------------------------------------------------------- |
+| Descripción de la evidencia                                                           | Enlace a la evidencia                                                                                                                    |
+| -------------------------------------------------------------------------------------- | ---------------------------------------------------------------------------------------------------------------------------------------- |
 | Pruebas Beta y Heurísticas en Voz alta con el Socio Formador Parte 1                 | [Parte 1](https://drive.google.com/file/d/16SxtqPJLbQrQOase0Smmej8d9QiaGBbV/view?usp=sharing)                                               |
 | Pruebas Beta y Heurísticas en Voz alta con el Socio Formador Parte 2                 | [Parte 2](https://drive.google.com/file/d/1Ff9YA06SScfiE82j1bbtNFZ-2cOhre-b/view?usp=sharing)                                               |
 | Pull request de Atender correcciones de Pruebas de Usabilidad                          | [Pull Request de Correcciones de Usabilidad](https://github.com/CodeAnd-Co/Frontend-Text-Lines/pull/24)                                     |
-| Pruebas unitarias de consultar lista de empleados                                      | [Prueba unitaria](https://docs.google.com/spreadsheets/d/1NLGwGrGA5PVOEzLaqxa8Ts1D_Ng3QzzqNKWJYUzxD-M/edit?gid=233812011#gid=233812011)     |
-| Pruebas unitarias de consultar lista de grupo de empleados                            | [Prueba unitaria](https://docs.google.com/spreadsheets/d/1NLGwGrGA5PVOEzLaqxa8Ts1D_Ng3QzzqNKWJYUzxD-M/edit?gid=1228526650#gid=1228526650)   |
-| Pruebas unitarias de crear producto                                                    | [Prueba unitaria](https://docs.google.com/spreadsheets/d/1NLGwGrGA5PVOEzLaqxa8Ts1D_Ng3QzzqNKWJYUzxD-M/edit?gid=233812011#gid=233812011)     |
+| Casos de prueba de consultar lista de empleados                                       | [Caso de prueba](https://docs.google.com/spreadsheets/d/1NLGwGrGA5PVOEzLaqxa8Ts1D_Ng3QzzqNKWJYUzxD-M/edit?gid=233812011#gid=233812011)      |
+| Casos de prueba de consultar lista de grupo de empleados                              | [Caso de prueba](https://docs.google.com/spreadsheets/d/1NLGwGrGA5PVOEzLaqxa8Ts1D_Ng3QzzqNKWJYUzxD-M/edit?gid=1228526650#gid=1228526650)    |
+| Casos de prueba de crear producto                                                     | [Caso de prueba](https://docs.google.com/spreadsheets/d/1NLGwGrGA5PVOEzLaqxa8Ts1D_Ng3QzzqNKWJYUzxD-M/edit?gid=233812011#gid=233812011)      |
 | Aportación en prueba de arquitectura evaluando el requisito no funcional de seguridad | [Prueba de arquitectura](https://codeandco-wiki.netlify.app/docs/next/proyectos/textiles/documentacion/prueba-de-arquitectura#ataques-csrf) |
 | RTM Consultar lista de empleados                                                       | [Consultar lista de empleados](https://codeandco-wiki.netlify.app/docs/next/proyectos/textiles/documentacion/requisitos/RF17)               |
 | RTM Consultar lista de grupo de empleados                                              | [Consultar lista de grupo de empleados](https://codeandco-wiki.netlify.app/docs/next/proyectos/textiles/documentacion/requisitos/RF22)      |
