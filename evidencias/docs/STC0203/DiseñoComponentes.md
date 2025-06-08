@@ -2,8 +2,8 @@
 sidebar_position: 1
 title: Diseño de componentes de software
 ---
-
 # Diseño de componentes de software
+
 
 | Diseña componentes de software, a partir de requerimientos, con base en estándares internacionales. |
 | :---------------------------------------------------------------------------------------------------- |
@@ -31,12 +31,8 @@ Desde la perspectiva de QA, esta claridad en el diseño es esencial para poder a
 
 ## Evidencias que respaldan la competencia
 
+
 | Descripción de la evidencia                           | Enlace a la evidencia                                                                                             |
 | ------------------------------------------------------ | ----------------------------------------------------------------------------------------------------------------- |
 | Diagrama de secuencia de Consultar Grupos de Empleados | [Diagrama de Secuencia](https://codeandco-wiki.netlify.app/docs/proyectos/textiles/documentacion/requisitos/RF22) |
 | Diagrama de secuencia de Consultar Lista de Empleados  | [Diagrama de Secuencia](https://codeandco-wiki.netlify.app/docs/proyectos/textiles/documentacion/requisitos/RF17) |
-
-## Análisis del nivel de la competencia
-
-[Análisis de Autoevaluación: STC0203 Diseño de componentes de software](/docs/STC0203/Analisis)
-
