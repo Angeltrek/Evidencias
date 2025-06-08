@@ -4,7 +4,6 @@ title: Aplicación de metodologías
 ---
 # Aplicación de metodologías
 
-
 | Aplica metodologías de desarrollo de soluciones de acuerdo a las necesidades establecidas por el contexto de un proceso computacional o de negocio, siguiendo estándares internacionales. |
 | :------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------ |
 
@@ -12,54 +11,64 @@ title: Aplicación de metodologías
 
 Por favor, agrega tus observaciones, sugerencias y comentarios sobre esta competencia en el siguiente enlace:  [Haz clic aquí para dejar tu retroalimentación](https://docs.google.com/document/d/1f6gmGv0hTGyq5ed3QdRZqxQ17BcpTBjYNlZJMbyOESY/edit?usp=sharing)
 
-## Implementación de DAD (Disciplined Agile Delivery)
+## Reflexión de mi estado actual en la competencia
 
-A nivel departamental, hemos trabajado con Disciplined Agile Delivery (DAD) para ir más allá del uso exclusivo de Scrum y definir soluciones más ágiles a lo largo del ciclo de vida del software. La decisión de utilizar DAD responde a la necesidad de enfocarnos en el liderazgo, los roles y las responsabilidades de cada miembro de Code&Co, además de cubrir todos los aspectos del desarrollo de nuestros tres proyectos, incluyendo arquitectura, diseño, pruebas, programación, documentación y despliegue del software.
+Este semestre ha sido muy útil y me ha permitido aprender cosas nuevas desde una perspectiva más organizada e interesante. En semestres anteriores no habría imaginado que hacer ingeniería pudiera ser tan completo e interesante. Durante el quinto semestre se aplicaron metodologías de desarrollo ágil; en este caso, se utilizó **Scrum**, el cual se enfoca en hacer más eficientes las entregas de los proyectos a través de iteraciones.
 
-El objetivo del proyecto de mi equipo es:
+Uno de los aspectos clave en las metodologías ágiles es la definición de roles, ya que ayudan a evitar cuellos de botella, asignar responsabilidades, facilitar la comunicación y reducir la confusión sobre quién debe hacer qué.
 
-> **"Convertirse en la herramienta principal utilizada por Altertex para la gestión de uniformes."**
+Es importante entender que los roles son efectivos porque, al tener claras las responsabilidades, el trabajo fluye de forma más ordenada. Además, en ágil los roles no son cargos jerárquicos ni especializaciones, lo que permite que otras personas del equipo puedan asumirlos y aprender en el proceso.
 
-Para lograrlo, entendemos que debemos deleitar al socio formador, consolidarnos como un equipo excepcional, comprender el contexto en el que trabajamos y ser conscientes del valor que aportamos. Nuestro enfoque debe ser pragmático, priorizando lo que funciona y tiene impacto real por encima de enfoques puramente teóricos. Esto requiere una base sólida de salud psicológica dentro del equipo y del departamento, la cual hasta ahora hemos logrado mantener de forma efectiva.
+Si analizamos Scrum, podemos observar que realmente contribuye a agilizar el ciclo de vida del desarrollo de software. Este marco de trabajo propone un enfoque estructurado en el que primero se analiza lo que se necesita, se crea un Product Backlog con una lista priorizada de funcionalidades, y luego se realiza la planificación del sprint, donde se define qué se trabajará en ese ciclo mediante un Sprint Backlog
 
-El marco de referencia CMMI nos brinda herramientas para tomar decisiones informadas y cumplir con nuestros compromisos. Por eso, es fundamental mantener un equilibrio entre los resultados y el bienestar del equipo, reconociendo el valor de lo alcanzado hasta el momento.
+Durante el desarrollo del sprint, el equipo lleva a cabo reuniones diarias para revisar el estado de las tareas y ajustar su enfoque si es necesario. Al final del sprint, se realiza una revisión donde se presenta el incremento del producto a las partes interesadas para obtener retroalimentación. Finalmente, se lleva a cabo una retrospectiva que permite al equipo reflexionar sobre lo que funcionó, lo que no, y cómo mejorar en la próxima iteración.
 
-Al realizar el test de liderazgo, identifiqué que mi enfoque está centrado en las personas. Esto me ha permitido comprender mejor la metodología ágil de DAD, que valida el aprendizaje continuo, prioriza las relaciones humanas sobre los resultados inmediatos y adapta las métricas para mejorar el desempeño de manera sostenible.
+Como podemos ver, Scrum no es solo un conjunto de buenas prácticas, sino un marco ágil con procesos bien definidos y reglas claras sobre cómo organizar el trabajo en equipo. Ahora bien, ¿cómo se relaciona esto con lo aprendido durante el semestre? Aquí es donde entra el CMMI que busca mejorar los procesos organizacionales y mejorar la calidad del producto con el objetivo de deleitar a los usuarios finales.
 
-DAD plantea que, cuanto antes se realicen actividades de verificación y validación, como pruebas, retroalimentación y trabajo colaborativo, mayor será la posibilidad de obtener resultados acertados. Esto reduce el costo de cambio y aumenta la probabilidad de entregar soluciones que realmente respondan a las necesidades de los stakeholders.
+DAD permite una autogobernanza de los equipos, reconociendo que las personas son la base del éxito en cualquier proyecto. DAD aporta una visión más pragmática y completa, considerando que los entornos no siempre son ideales y que los equipos deben poder adaptar su forma de trabajar según el contexto, por lo que permite crear una forma de trabajo.
 
-Para garantizar la calidad del proyecto de mi equipo, asumí el rol de QA (asegurador de la calidad), especializado en asegurar que el equipo haga las cosas correctas de la manera correcta. En particular, me enfoqué en mejorar continuamente la arquitectura del sistema, promoviendo una codificación limpia y ordenada. También realicé pruebas de usabilidad con diferentes usuarios para obtener retroalimentación valiosa y, finalmente, validar las posibles modificaciones con el socio formador para crear un producto que realmente lo fascine.
+Esta autogobernanza la proporciona el CMMI para desarrollo mediante buenas prácticas para mejorar los procesos para el desarrollo, mantenimiento y operación de empresas. Esta integración permite no solo desarrollar, sino también dar soporte e ingeniería a los procesos dentro del ciclo de vida del producto de forma mucho más efectiva.
 
-He contribuido al monitoreo de los defectos del sistema, lo cual nos ha permitido tomar mejores decisiones relacionadas con la calidad del proyecto. Medir los defectos ayuda a identificar y corregir desviaciones en el seguimiento de los procesos, así como a validar que se estén cumpliendo los estándares definidos. Por ello, me he enfocado en asegurar que el equipo realice las actividades de manera correcta, siguiendo el ciclo de desarrollo propuesto por DAD en cada iteración del proyecto.
+Teniendo todo lo anterior en cuenta, existen áreas de proceso en el modelo CMMI que nos permiten definir procesos, incrementar su calidad y aplicar mejoras continuas, lo cual ayuda a fomentar una autogobernanza dentro del departamento.
 
-Uno de los principales riesgos que se identificaron durante la codificación del proyecto fue la deuda técnica. Tanto el AO (Dueño de la arquitectura) como el PO(Dueño del Producto) estuvieron de acuerdo en refactorizar el código antes que aceptar la deuda técnica ya que logré convencer al equipo de que si no teníamos una buena forma de hacer las cosas, los tiempos de entrega se aplazarian aún más. Por lo que al refactorizar el código los tiempos de entrega y los costos iban a bajar en el futuro debido a que el codigo seria mas entendible y limpio, por lo que darle mantenimineto seria mas facil.
+Mejorar la forma de trabajo implica que los procesos están madurando y, por lo tanto, es más importante enfocar los esfuerzos en optimizar el sistema que en imponerlo a las personas. La mejora real ocurre cuando los equipos comprenden, adoptan y adaptan los procesos, no cuando se les obliga a seguirlos de forma rígida.
 
-Mi propuesta de solución fue implementar Atomic Design, un patrón de diseño que especifica cómo dividir los componentes de interfaz en niveles jerárquicos: átomos, moléculas, organismos, plantillas y páginas. Esta estructura modular facilita la reutilización de componentes, mejora la organización del código y permite escalar el desarrollo sin generar duplicidades ni inconsistencias visuales o funcionales. Gracias a esto, no solo nuestro equipo se benefició, sino que otros equipos del departamento comenzaron a adoptar esta estrategia para sus propios proyectos.
+Evidentemente, para mejorar los procesos, es necesario ejecutarlos, de modo que las mejoras puedan identificarse y medirse con base en datos. Por eso es fundamental mantener áreas de soporte como MA, que permitan sustentar las decisiones con datos.
 
-Esto generó que nos atrasaramos en iniciar la fase de construcción y volvieramos a planear, analizar y diseñar. Al lograr refactorizar tanto el codigo como la base de datos y su respectiva documentación, se creó un nuevo plan de iteración para poder cumplir con el cliclo de adesarrollo de software.
+Durante el semestre, propuse tres mejoras dentro del departamento, de las cuales dos ya ls propuse yo y una fue elaborada junto con mi equipo:
 
-Los datos muestran que hemos tenido un incremento de más del 200% en el desempeño al completar los ítems de trabajo planeados durante la segunda iteración de construcción, lo cual probablemente no habría sido posible sin las mejoras implementadas tras la refactorización.
+Primera mejora: Mejora de las checklists en los reportes de estado
 
-Actualmente me encuentro analizando cómo seguir optimizando el proceso de desarrollo dentro de mi equipo y departamento, ya que he identificado un posible riesgo relacionado con el tiempo que estamos tardando en realizar las pruebas. Necesito recopilar datos que confirmen esta hipótesis para poder proponer mejoras en los procesos de revisión de código, pruebas y despliegue.
+> Sí se llenan las checklists del reporte de estado, entonces todos los proyectos podrán contestar al menos 4 preguntas y hacer un mejor reporte.
 
-Aún no sé si existe algún proceso innecesario dentro del ciclo de desarrollo, ya que no se ha realizado una trazabilidad completa de los procesos en cada fase. Este es un problema que ya se ha planteado a nivel grupal y con los PMñ Sin embargo, el grupo aún no ha atendido las recomendaciones hechas por Paola y Valeria.
+Esta hipótesis surgió tras realizar varias veces el proceso de reporte de estado y ver que nadie completaba las checklists, ya que no tenían sentido y no se seguía el proceso correctamente, principalmente debido a una mala redacción.
 
-Personalmente, me estoy enfocando en cumplir correctamente con mi rol como QA, lo que ha limitado mi tiempo para revisar todos los procesos del ciclo. En teoría, existen auditorías internas que deberían identificar estos puntos, y noto que está comenzando a haber una mayor conciencia sobre que los procesos no están siendo utilizados de manera efectiva o alineada con su propósito.
+Entonces lo que hice fué corregir la checklist para mantener una concistencia de lo que se responde en cada proyecto. Al final todos los proyectos lograron responder mínimo 4 preguntas.
+
+Segunda mejora: Centralización de auditorías en la matriz de configuración
+
+> Si se elimina la matriz de auditorías y las auditorías se registran directamente en la matriz de configuración, entonces será más sencillo realizarlas y se contará con un repositorio centralizado para evaluar el estado de cada línea base y elemento de configuración.
+
+Esta mejora fue exitosa porque teniamos dos matrices distintas para almacenar los resultados de las auditorias, pero la auditorias se pueden almacenar directamente en el repositorio de configuracion y se puede evaluar de forma directa el estado de los elementos sin tener que abrir otra matriz que contiene los mimos datos.
+
+Tercera mejora: Dinámica colaborativa para avanzar en CMMI
+
+La tercer mejora se planteó con Valeria, Paola, Daniel, y Nicolás.
+
+> Si realizamos una actividad de competencia entre los equipos para completar las actividades pendientes del CMMI, entonces podremos avanzar 70 puntos en un periodo de 4 horas.
+
+El objetivo fue atacar directamente la desviación del plan departamental y mejorar la comprensión de CMMI, ya que quienes ya habían trabajado en definir áreas de proceso, tuvieron que releer para tomar el rol de SEPG durante la dinámica.
+
+Logramos alcanzar 79.216 puntos en solo 4 horas, superando la meta de 70 puntos y fortaleciendo tanto el entendimiento como la colaboración del equipo.
 
 ## Evidencias que respaldan la competencia
 
-
-| Descripción de la evidencia                                                                             | Enlace a la evidencia                                                                                                                                                         |
-| -------------------------------------------------------------------------------------------------------- | ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
-| Recurso utilizado para implementar Atomic Design                                                         | [Atomic Design Pattern](https://rjroopal.medium.com/atomic-design-pattern-structuring-your-react-application-970dd57520f8)                                                    |
-| Aportación a corregir el proceso de auditorías donde se hace referencia al mapa del ciclo de vida DAD. | [Code&Co wiki](https://codeandco-wiki.netlify.app/docs/procesos/PR12-auditorias)                                                                                              |
-| Pruebas de Usabilidad                                                                                    | [Pruebas Usabilidad](https://docs.google.com/spreadsheets/d/1NLGwGrGA5PVOEzLaqxa8Ts1D_Ng3QzzqNKWJYUzxD-M/edit?usp=sharing)                                                    |
-| Refactorización del código donde se implementa Atomic Design                                           | [Frontend Text&Lines](https://github.com/CodeAnd-Co/Frontend-Text-Lines/tree/develop/src/vistas/componentes)                                                                  |
-| Plan de valor ganado después de refactorizar. Se puede observar el incremento de desempeño.            | [PVG Tex&Lines](https://docs.google.com/spreadsheets/d/1ins7a1KF_8chA4lhZNzRSiH3ySl5aHztllgCIgqCqOk/edit?usp=sharing)                                                         |
-| Aportación en la fase de planeación                                                                    | [PVG Tex&Lines](https://docs.google.com/spreadsheets/d/1ins7a1KF_8chA4lhZNzRSiH3ySl5aHztllgCIgqCqOk/edit?usp=sharing)                                                         |
-| Aportación en la fase de análisis                                                                      | [Priorización de Requerimientos Funcionales](https://docs.google.com/spreadsheets/d/1ToxcYLMjoZ0dPXlb2eTesLf_YXg8q86tE7bredXapYk/edit?gid=2006473852#gid=2006473852)         |
-| Aportación en la fase de diseño                                                                        | [MER y Diccionario de Datos](https://codeandco-wiki.netlify.app/docs/proyectos/textiles/documentacion/diagrama-mer/)                                                          |
-| Aportación en la fase de revisión de diseño                                                           | [MER y Diccionario de Datos](https://codeandco-wiki.netlify.app/docs/proyectos/textiles/documentacion/diagrama-mer/)                                                          |
-| Aportación en la fase de codificación                                                                  | [Pull Request de una de mis HU](https://github.com/CodeAnd-Co/Frontend-Text-Lines/pull/23)                                                                                    |
-| Aportación en la fase de revisión de codificación                                                     | [Pull Request Revisado por mi](https://github.com/CodeAnd-Co/Frontend-Text-Lines/pull/17)                                                                                     |
-| Aportación en la fase de pruebas                                                                        | [Pruebas realizadas en el desarrollo de una de mis HU](https://docs.google.com/spreadsheets/d/1NLGwGrGA5PVOEzLaqxa8Ts1D_Ng3QzzqNKWJYUzxD-M/edit?gid=233812011#gid=233812011) |
+| Descripción de la evidencia       | Enlace a la evidencia                                                                                                    |
+| ---------------------------------- | ------------------------------------------------------------------------------------------------------------------------ |
+| Bitácora de experimentos          | [Bitácora](https://docs.google.com/spreadsheets/d/1ZUskMYliQ5rVRFKRUb73bi6RmcTdEz7id3t4mOOw-ZI/edit?usp=sharing)           |
+| Checklist del reporte de estado    | [Checklist](https://docs.google.com/document/d/1skvIHlFhoJjGSoHj_fZ98gRAkRll7O8zY8Facau6crE/edit?usp=sharing)               |
+| Proceso de auditorías             | [Auditorías](https://codeandco-wiki.netlify.app/docs/next/procesos/PR12-auditorias)                                        |
+| Actividad del CMMI                 | [Actividad](https://docs.google.com/document/d/1JcyHM87VaSDOohx6TiCU-bhlTa5iJN9ZZP4yz0_xS-I/edit?usp=sharing)               |
+| Plan de valor ganado departamental | [PVG](https://docs.google.com/spreadsheets/d/1yvqCf1wp_6ic0Xqwd4LDwk_sMfGdgWF-S9FTfnieVZQ/edit?gid=235815470#gid=235815470) |
+| Análisis de actividad del CMMI    | [Análisis](https://docs.google.com/document/d/1JcyHM87VaSDOohx6TiCU-bhlTa5iJN9ZZP4yz0_xS-I/edit?usp=sharing)               |
+| Miro del reporte de estado         | [Miro](https://miro.com/app/board/uXjVLiydTAs=/)                                                                            |
