@@ -72,8 +72,8 @@ Aunque nuestro departamento no logró cumplir completamente con todos los requis
 
 ## Reflexión de Master Jedi en implantación de software
 
-Un Master Jedi en implantación de soluciones computacionales comprende que implantar no es solo desplegar código, sino asegurar que la solución realmente resuelva los problemas del usuario final en su entorno. En otras palabras, se trata de deleitarlo y superar sus expectativas.
+Un Master Jedi en implantación de sofware comprende que implantar no es solo desplegar código, sino asegurar que la solución realmente resuelva los problemas del usuario final en su entorno. En otras palabras, se trata de deleitarlo y superar sus expectativas.
 
 Entiende que la implantación exitosa requiere una visión que incluye aspectos técnicos, de usuario, de negocio y organizacionales. No solo se enfoca en que el sistema funcione, sino en que los usuarios lo adopten y obtengan valor real de él.
 
-Un Master Jedi también entiende que la implantación es un proceso continuo de mejor y por eso establece mecanismos de monitoreo, retroalimentación y evolución del sistema implantado.
+Un Master Jedi también entiende que la implantación es un proceso continuo de mejora y por eso establece mecanismos de monitoreo, retroalimentación y evolución del sistema implantado.
