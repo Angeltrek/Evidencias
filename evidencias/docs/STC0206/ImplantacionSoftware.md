@@ -16,7 +16,7 @@ Por favor, agrega tus observaciones, sugerencias y comentarios sobre esta compet
 
 Durante el semestre aprendí que un MVP no es solo la versión mínima de un producto, sino la versión más pequeña que puede ser liberada al usuario final para validar hipótesis de negocio y generar aprendizaje. El MVP debe ser completamente funcional y resolver un problema real del usuario, aunque de manera básica.
 
-En el anterior semestre se nos dijo que entregaramos un MVP como 
+En el anterior semestre se nos dijo que entregaramos un MVP como
 
 Los MBI (Minimum Business Increment) son incrementos que añaden valor de negocio específico al MVP. Cada MBI debe representar una funcionalidad completa que el usuario puede utilizar para resolver necesidades adicionales, construyendo sobre la base establecida por el MVP.
 
@@ -70,7 +70,7 @@ Este semestre me enseñó que la implantación exitosa requiere:
 
 Aunque nuestro departamento no logró cumplir completamente con todos los requisitos de implantación en tiempo y forma, las lecciones aprendidas son valiosas para futuros proyectos.
 
-## Reflexión de Master Jedi en implantación de soluciones
+## Reflexión de Master Jedi en implantación de software
 
 Un Master Jedi en implantación de soluciones computacionales comprende que implantar no es solo desplegar código, sino asegurar que la solución realmente resuelva los problemas del usuario final en su entorno. En otras palabras, se trata de deleitarlo y superar sus expectativas.
 
