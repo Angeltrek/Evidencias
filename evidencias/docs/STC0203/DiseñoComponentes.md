@@ -12,7 +12,7 @@ title: Diseño de componentes de software
 
 Por favor, agrega tus observaciones, sugerencias y comentarios sobre esta competencia en el siguiente enlace:  [Haz clic aquí para dejar tu retroalimentación](https://docs.google.com/document/d/1DS8nw5wONIA2Hsyyu9oGleLhGe4syc6xH5qRi6aSWro/edit?usp=sharing)
 
-## Reflexión de mi estado actual en la competencia
+## Reflexión de mi estado en la competencia
 
 Al inicio del semestre no sabía qué era un patrón de arquitectura y tenía la idea errónea de que un patrón de diseño como MVC era una arquitectura de software. Con el tiempo entendí que una arquitectura va mucho más allá de solo distribuir responsabilidades y su objetivo principal es permitir que el sistema cumpla con los requisitos funcionales y no funcionales.
 

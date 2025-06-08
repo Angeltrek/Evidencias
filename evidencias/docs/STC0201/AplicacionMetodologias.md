@@ -4,6 +4,7 @@ title: Aplicación de metodologías
 ---
 # Aplicación de metodologías
 
+
 | Aplica metodologías de desarrollo de soluciones de acuerdo a las necesidades establecidas por el contexto de un proceso computacional o de negocio, siguiendo estándares internacionales. |
 | :------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------ |
 
@@ -11,7 +12,7 @@ title: Aplicación de metodologías
 
 Por favor, agrega tus observaciones, sugerencias y comentarios sobre esta competencia en el siguiente enlace:  [Haz clic aquí para dejar tu retroalimentación](https://docs.google.com/document/d/1f6gmGv0hTGyq5ed3QdRZqxQ17BcpTBjYNlZJMbyOESY/edit?usp=sharing)
 
-## Reflexión de mi estado actual en la competencia
+## Reflexión de mi estado en la competencia
 
 Este semestre ha sido muy útil y me ha permitido aprender cosas nuevas desde una perspectiva más organizada e interesante. En semestres anteriores no habría imaginado que hacer ingeniería pudiera ser tan completo e interesante. Durante el quinto semestre se aplicaron metodologías de desarrollo ágil; en este caso, se utilizó **Scrum**, el cual se enfoca en hacer más eficientes las entregas de los proyectos a través de iteraciones.
 
@@ -71,7 +72,7 @@ Esto lo aprendí gracias al ejemplo de personas que me inspiraron como Pao, Vale
 
 Con ellos aprendí que la ingeniería no se trata solo de programar o tener habilidades técnicas, sino de **gestionar y mantener un proceso de ingeniería sólido**. Entendí que es importante **verificar, validar, planear y tomar decisiones basadas en datos**, y, sobre todo, que **confiar en la capacidad de tu equipo es clave para alcanzar el éxito**.
 
-## Reflexión de Master Jedi en aplicación de metodologías 
+## Reflexión de Master Jedi en aplicación de metodologías
 
 Un Master Jedi en aplicación de metodologías es capaz de comprender la importancia de crear una forma de trabajo dentro de un equipo a través de la mejora de los sistemas. Reconoce que **los roles de liderazgo son fundamentales en su entorno**, y por ello **prioriza a las personas** para lograr mejoras que puedan durar en el tiempo o incluso ser permanentes. También entiende que existen **herramientas que le permiten gestionar proyectos, aplicar ingeniería, diseñar procesos y mejorarlos con base en indicadores y resultados medibles**.
 
@@ -79,8 +80,9 @@ También actúa con valores y fomenta una cultura de respeto y dignidad al mejor
 
 ## Evidencias que respaldan la competencia
 
-| Descripción de la evidencia       | Enlace a la evidencia                                                                                                    |
-| ---------------------------------- | ------------------------------------------------------------------------------------------------------------------------ |
+
+| Descripción de la evidencia       | Enlace a la evidencia                                                                                                       |
+| ---------------------------------- | --------------------------------------------------------------------------------------------------------------------------- |
 | Bitácora de experimentos          | [Bitácora](https://docs.google.com/spreadsheets/d/1ZUskMYliQ5rVRFKRUb73bi6RmcTdEz7id3t4mOOw-ZI/edit?usp=sharing)           |
 | Checklist del reporte de estado    | [Checklist](https://docs.google.com/document/d/1skvIHlFhoJjGSoHj_fZ98gRAkRll7O8zY8Facau6crE/edit?usp=sharing)               |
 | Proceso de auditorías             | [Auditorías](https://codeandco-wiki.netlify.app/docs/next/procesos/PR12-auditorias)                                        |

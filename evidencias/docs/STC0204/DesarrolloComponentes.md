@@ -12,7 +12,7 @@ title: Desarrollo de componentes de software
 
 Por favor, agrega tus observaciones, sugerencias y comentarios sobre esta competencia en el siguiente enlace:  [Haz clic aquí para dejar tu retroalimentación](https://docs.google.com/document/d/1xm_M5vunXw_bH4wOiuPd6hGk5HVsXdd6ssWe9VoPqxM/edit?usp=sharing)
 
-## Reflexión de mi estado actual en la competencia
+## Reflexión de mi estado en la competencia
 
 La necesidad principal de Altertex es llegar al usuario final sin depender de intermediarios, lo que representa un cambio estratégico importante para su modelo de negocio. Por ello, la propuesta de valor del software desarrollado se centra en hacer este proyecto viable desde el punto de vista técnico, eliminando los cuellos de botella generados por los intermediarios.
 
